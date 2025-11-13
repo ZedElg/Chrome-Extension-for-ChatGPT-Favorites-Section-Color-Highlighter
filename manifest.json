@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "ChatGPT: Favorites & Color Highlighter for Projects & Chats",
+  "version": "0.93",
+  "description": "Enhance your ChatGPT experience by organizing your chats with a Favorites section and color-coded highlights.",
+  "permissions": [""],
+  "content_scripts": [
+    {
+      "matches": ["https://chatgpt.com/*"],
+      "js": ["ColorCode.js", "Favorites.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
