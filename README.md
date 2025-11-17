@@ -17,3 +17,11 @@ Improve the organization of your ChatGPT workspace with the following features:
 - **Organization Made Simple**: Group key chats and projects in one place.
 - **Privacy First**: No external servers handle your preferences or data.
 - **Free & Secure**: Locally-stored configurations ensure data integrity.
+
+
+**Screenshots**
+
+<img width="640" height="400" alt="Screenshot_1" src="https://github.com/user-attachments/assets/cbef5659-48a0-4287-a6ac-d645a36ffa4c" />
+<img width="640" height="400" alt="Untitled-10" src="https://github.com/user-attachments/assets/b8bb4a8c-fad5-4911-87f3-ff2394fb4f79" />
+<img width="640" height="400" alt="Screenshot_3" src="https://github.com/user-attachments/assets/acc5dfa9-0db8-44db-91af-8bcfa5112ef1" />
+<img width="640" height="400" alt="Screenshot_4" src="https://github.com/user-attachments/assets/16ac36a3-2712-48f4-86c0-30b10ae6d923" />
