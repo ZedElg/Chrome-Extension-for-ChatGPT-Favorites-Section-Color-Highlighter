@@ -18,6 +18,7 @@ Improve the organization of your ChatGPT workspace with the following features:
 - **Privacy First**: No external servers handle your preferences or data.
 - **Free & Secure**: Locally-stored configurations ensure data integrity.
 
+You can download the extension [here](https://chromewebstore.google.com/detail/chatgpt-favorites-color-h/mepfaoknmcmelkcbhjmobgldhebiphll?authuser=0&hl=en-GB) 
 
 **Screenshots**
 
